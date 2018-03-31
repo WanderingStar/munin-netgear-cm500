@@ -1,0 +1,1 @@
+# munin-netgear-cm500
