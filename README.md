@@ -1,6 +1,6 @@
 # munin-netgear-cm500
 
-This is a simple [Munin](http://munin-monitoring.org/) plugin to get scrape data
+This is a simple [Munin](http://munin-monitoring.org/) plugin to scrape data
 from the web interface of a Netgear CM500 Cable Modem.
 
 This plugin requires Python 3.6 (sorrynotsorry).
